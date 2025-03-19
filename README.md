@@ -7,7 +7,6 @@ Welcome to my learning journey through the **OpenCV Bootcamp**! This course is h
 - **Course Code:** OCVBC
 - **Type:** Preparatory
 - **Language:** Python
-- **Price:** Free *(Limited Time Offer)*
 - **Duration:** ~3 Hours
 - **Format:** Videos, Quizzes, and Colab Notebooks
 - **Certification:** Official OpenCV Certification upon completion
