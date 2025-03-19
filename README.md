@@ -17,9 +17,9 @@ This bootcamp consists of **14 modules**, covering fundamental to advanced topic
 | Status    | Module Number | Module Name | Description |
 |-----------|--------------|-------------|-------------|
 | ✅ | 1 | Getting Started With Images | Learned how to load, display, and save images using OpenCV. Explored different image formats, how OpenCV reads images, and how to visualize them using Matplotlib. |
-| ⏳ | 2 | Basic Image Manipulation | Practicing resizing, rotating, cropping, and enhancing images. |
-| ❌ | 3 | Histograms and Color Segmentation | Understanding image histograms and performing color-based segmentation. |
-| ❌ | 4 | Video Processing and Analysis | Working with video streams and real-time processing. |
+| ✅ | 2 | Basic Image Manipulation | Practicing resizing, rotating, cropping, and enhancing images. |
+| ✅ | 3 | Histograms and Color Segmentation | Understanding image histograms and performing color-based segmentation. |
+| ⏳ | 4 | Video Processing and Analysis | Working with video streams and real-time processing. |
 | ❌ | 5 | Contour and Shape Analysis | Detecting and analyzing object shapes. |
 | ❌ | 6 | Playing Games Using CV (HCI) | Implementing Human-Computer Interaction (HCI) techniques in mini-projects. |
 | ❌ | 7 | Building and Deploying Web Apps with Streamlit | Creating interactive CV applications. |
