@@ -16,7 +16,7 @@ This bootcamp consists of **14 modules**, covering fundamental to advanced topic
 
 | Status    | Module Number | Module Name | Description |
 |-----------|--------------|-------------|-------------|
-| ✅ | 1 | Getting Started With Images | Learned how to load, display, and save images using OpenCV. Explored different image formats, how OpenCV reads images, and how to visualize them using Matplotlib. |
+| ✅ | 1 | Getting Started With Images | Learning how to load, display, and save images using OpenCV. Exploring different image formats, how OpenCV reads images, and how to visualize them using Matplotlib. |
 | ✅ | 2 | Basic Image Manipulation | Practicing resizing, rotating, cropping, and enhancing images. |
 | ✅ | 3 | Histograms and Color Segmentation | Understanding image histograms and performing color-based segmentation. |
 | ⏳ | 4 | Video Processing and Analysis | Working with video streams and real-time processing. |
