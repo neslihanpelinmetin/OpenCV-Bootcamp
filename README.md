@@ -13,22 +13,22 @@ Welcome to my learning journey through the **OpenCV Bootcamp**! This course is h
 ## 🚀 My Progress
 This bootcamp consists of **14 modules**, covering fundamental to advanced topics in OpenCV. Below is my current progress and experiences:
 
-| Status    | Module Number | Module Name | Description |
-|-----------|--------------|-------------|-------------|
-| ✅ | 1 | Getting Started With Images | Learning how to load, display, and save images using OpenCV. Exploring different image formats, how OpenCV reads images, and how to visualize them using Matplotlib. |
-| ✅ | 2 | Basic Image Manipulation | Practicing resizing, rotating, cropping, and enhancing images. |
-| ✅ | 3 | Histograms and Color Segmentation | Understanding image histograms and performing color-based segmentation. |
-| ⏳ | 4 | Video Processing and Analysis | Working with video streams and real-time processing. |
-| ❌ | 5 | Contour and Shape Analysis | Detecting and analyzing object shapes. |
-| ❌ | 6 | Playing Games Using CV (HCI) | Implementing Human-Computer Interaction (HCI) techniques in mini-projects. |
-| ❌ | 7 | Building and Deploying Web Apps with Streamlit | Creating interactive CV applications. |
-| ❌ | 8 | Image Registration Techniques | Exploring feature-based and intensity-based image alignment. |
-| ❌ | 9 | ArUco Markers for Augmented Reality | Experimenting with ArUco markers for AR applications. |
-| ❌ | 10 | Deep Learning with OpenCV | Implementing deep learning models using OpenCV. |
-| ❌ | 11 | Face and Landmark Detection | Building face detection and facial landmark detection models. |
-| ❌ | 12 | Object Detection | Experimenting with different object detection models. |
-| ❌ | 13 | Object Tracking | Implementing object tracking in real-time applications. |
-| ❌ | 14 | Human Pose Estimation | Exploring techniques for estimating human poses. |
+| Status | Module Number | Module Name                     | Description |
+|--------|----------------|----------------------------------|-------------|
+| ✅     | 1              | Getting Started With Images      | Learn how to load, display, and save images using OpenCV. Explore different image formats, how OpenCV reads images, and how to visualize them using Matplotlib. |
+| ✅     | 2              | Basic Image Manipulation         | Practice resizing, rotating, cropping, and enhancing images. |
+| ✅     | 3              | Image Annotation                 | Draw shapes, write text, and add labels or markers to images using OpenCV’s annotation functions. |
+| ⏳     | 4              | Image Enhancement                | Improve image quality through contrast adjustment, histogram equalization, and denoising techniques. |
+| ❌     | 5              | Accessing the Camera             | Capture live video streams from a camera, display them in real-time, and save frames. |
+| ❌     | 6              | Video Writing                    | Record video from a camera or a sequence of frames and save it to a file using different codecs. |
+| ❌     | 7              | Image Filtering                  | Apply various filters like Gaussian, median, and bilateral for blurring and noise reduction. |
+| ❌     | 8              | Image Features and Alignment     | Detect keypoints using SIFT, SURF, ORB, and align images using feature matching. |
+| ❌     | 9              | Panorama                         | Stitch multiple images together to create panoramic views. |
+| ❌     | 10             | HDR                              | Create High Dynamic Range (HDR) images by combining multiple exposures of the same scene. |
+| ❌     | 11             | Object Tracking                  | Track moving objects in videos using algorithms like Meanshift, Camshift, and optical flow. |
+| ❌     | 12             | Face Detection                   | Detect faces in images and video using Haar cascades and other pre-trained models. |
+| ❌     | 13             | Tensorflow Object Detection      | Use TensorFlow’s object detection API to detect and classify objects in images and video. |
+| ❌     | 14             | Pose Estimation using OpenPose   | Estimate human poses by detecting key body joints with OpenPose or similar deep learning models. |
 
 ✅ Completed | ⏳ In Progress | ❌ Not Started
 
